@@ -13,7 +13,7 @@ class Solution:
         Returns:
             bool: boolean that tells if there is any duplicate
         """
-        assert len(nums) != len(set(nums))
+        return len(nums) != len(set(nums))
         
     def solve(self, nums: List[int]):
         """Method that encapsulates the solution

@@ -5,23 +5,25 @@ class Solution:
     """
     
     def algorithm1(self, s: str, t: str) -> bool:
-        """Algorithmic solution in O(n)
+        """Check if two strings are anagrams
 
         Args:
-            nums (List[int]): list of numbers
+            s (str): first string
+            t (str): second string
 
         Returns:
-            bool: boolean that tells if there is any duplicate
+            bool: results
         """
-        assert sorted(s) == sorted(t)
+        return sorted(s) == sorted(t)
         
     def solve(self, s: str, t: str):
-        """Method that encapsulates the solution
+        """Uses one solutions from the stuffs
 
         Args:
-            nums (List[int]): input of the proposed solution
+            s (str): first string
+            t (str): second string
 
         Returns:
-            _type_: result of the solution
+            bool: results
         """
         return self.algorithm1(s, t)
