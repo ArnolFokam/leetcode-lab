@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contains_duplicate/explanation.md",
+                "file": "valid_anagram/Valid Anagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contains_duplicate/explanation.md",
+                "file": "valid_anagram/Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contains_duplicate/explanation.md",
+                "file": "valid_anagram/Valid Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contains_duplicate/explanation.md"
+                "file": "valid_anagram/Valid Anagram.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "f2a6ef966ad5e80d",
   "lastOpenFiles": [
+    "contains_duplicate/Contains Duplicate.md",
+    "valid_anagram/Valid Anagram.md",
     "Two Sum/Explanation.md",
     "Climbing Stairs/Explanation.md",
     "Contains Duplicate/Explanation.md"
