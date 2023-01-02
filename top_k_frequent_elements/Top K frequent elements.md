@@ -1,0 +1,14 @@
+#array #hashing #sorting 
+- For this problem, all the solutions must have certain things in common:
+	- The ability to get the count tof every numbers
+	- The ability to access the counts in sorted order
+- An $O(n \log n)$ (worst case) would be to construct a hashmap of value to number of occurrences then create a sorted list from the keys of the hashmap (keys = numbers of the list) based on their number of occurences. This solution has the mentoined complexity because or the sorting algorithm as the hashmap creation would only be in $O(n)$.
+- An $O(n)$ solution would be to 
+	- count all the number of occurence of every number in the list
+	- Group those numbers based on their number of occurrences
+	- Construct the top-k based on the group made.
+- A challenge with this solution is the choice of data structure. We need a data sctrutuce we can use group numbers based on their occurence but we also need this data structure to be accessible in order.
+- We can use a list where the index $i$ represents number of occurences and the data at that index is a list of numbers with $i$ occurence.
+- Therefore we can construct the top-k most frequent element by looping over that list in descending order.
+- **Note:** To construct the list, we need to know the number of occurences of every digits. Therefore, the creation of a hashmap is inevitable.
+- **Question:** Can we by-pass the hashmap creation?

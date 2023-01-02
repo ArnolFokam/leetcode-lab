@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "group_anagrams/Group Anagrams.md",
+                "file": "top_k_frequent_elements/Top K frequent elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5449a2ea5e5849a7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "group_anagrams/Group Anagrams.md",
+                "file": "top_k_frequent_elements/Top K frequent elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "group_anagrams/Group Anagrams.md",
+                "file": "top_k_frequent_elements/Top K frequent elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "group_anagrams/Group Anagrams.md"
+                "file": "top_k_frequent_elements/Top K frequent elements.md"
               }
             }
           }
@@ -148,10 +149,10 @@
   },
   "active": "c0403d061e9fd731",
   "lastOpenFiles": [
+    "group_anagrams/Group Anagrams.md",
     "contains_duplicate/Contains Duplicate.md",
     "two_sum/Two Sum.md",
     "valid_anagram/Valid Anagram.md",
-    "group_anagrams/Group Anagrams.md",
     "Two Sum/Explanation.md",
     "Climbing Stairs/Explanation.md",
     "Contains Duplicate/Explanation.md"

@@ -25,7 +25,7 @@ class Solution:
         return sorted_nums[:k]
     
     def algorithm2(self, nums: List[int], k: int) -> List[int]:
-        """Algorithm that solves the problem in Big O(k log n)
+        """Algorithm that solves the problem in Big O(n) inspired from bucket sort
 
         Args:
             nums (List[int]): list of numbers
@@ -34,9 +34,29 @@ class Solution:
         Returns:
             List[int]: top k most elements
         """
-        pass
         
-    def solve(self,nums: List[int], k: int) -> List[int]:
+        # holds the count of each number
+        count = {}
+        for n in nums:
+            count[n] = 1 + count.get(n, 0)
+
+        # holds numbers per count
+        freq = [[] for _ in range(len(nums) + 1)]
+        
+        for n, c in count.items():
+            freq[c].append(n)
+            
+        # loop from largest count to smallest 
+        # count until we fill k numbers
+        top_k = []
+        i = len(freq) - 1
+        while len(top_k) < k and i > 0:
+            top_k.extend(freq[i][:k - len(top_k)])
+            i -= 1
+            
+        return top_k
+        
+    def solve(self, nums: List[int], k: int) -> List[int]:
         """Algorithm that solves the problem in Big O(k log n)
 
         Args:
@@ -46,4 +66,4 @@ class Solution:
         Returns:
             List[int]: top k most elements
         """
-        return self.algorithm1()
+        return self.algorithm2(nums, k)
