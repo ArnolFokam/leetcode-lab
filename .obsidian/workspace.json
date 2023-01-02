@@ -11,8 +11,12 @@
             "id": "c0403d061e9fd731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "group_anagrams/Group Anagrams.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contains_duplicate/Contains Duplicate.md",
+                "file": "group_anagrams/Group Anagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contains_duplicate/Contains Duplicate.md",
+                "file": "group_anagrams/Group Anagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contains_duplicate/Contains Duplicate.md"
+                "file": "group_anagrams/Group Anagrams.md"
               }
             }
           }
@@ -142,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "117e50edfd1b9b9f",
+  "active": "c0403d061e9fd731",
   "lastOpenFiles": [
-    "valid_anagram/Valid Anagram.md",
+    "contains_duplicate/Contains Duplicate.md",
     "two_sum/Two Sum.md",
-    "contains_duplicate/Contains Duplicate.md",
-    "contains_duplicate/Contains Duplicate.md",
+    "valid_anagram/Valid Anagram.md",
+    "group_anagrams/Group Anagrams.md",
     "Two Sum/Explanation.md",
     "Climbing Stairs/Explanation.md",
     "Contains Duplicate/Explanation.md"
