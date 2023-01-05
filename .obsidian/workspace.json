@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bb1aab2bbd7a65a",
+        "id": "89632ca0b5d78f80",
         "type": "tabs",
         "children": [
           {
-            "id": "c0403d061e9fd731",
+            "id": "ac6aa31f37d1c3c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product_of_array_except_self/Product of array except self.md",
+                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5449a2ea5e5849a7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product_of_array_except_self/Product of array except self.md",
+                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product_of_array_except_self/Product of array except self.md",
+                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product_of_array_except_self/Product of array except self.md"
+                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md"
               }
             }
           }
@@ -147,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0403d061e9fd731",
+  "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
-    "top_k_frequent_elements/Top K frequent elements.md",
+    "longest_consecutive_sequence/Longest Consecutive Sequence.md",
+    "valid_sudoku/Valid Sudoku.md",
+    "valid_anagram/Valid Anagram.md",
     "group_anagrams/Group Anagrams.md",
+    "product_of_array_except_self/Product of array except self.md",
+    "top_k_frequent_elements/Top K frequent elements.md",
     "contains_duplicate/Contains Duplicate.md",
     "two_sum/Two Sum.md",
-    "valid_anagram/Valid Anagram.md",
     "Two Sum/Explanation.md",
-    "Climbing Stairs/Explanation.md",
-    "Contains Duplicate/Explanation.md"
+    "Climbing Stairs/Explanation.md"
   ]
 }

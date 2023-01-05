@@ -1,3 +1,4 @@
+#array 
 - A simple solution would have been to compute the total product of the all the elements in the array, loop over the elements and divide the product by the current element.
 - Unfortunately, we are forbidden to use such method and this solution would fail for cases where there are zero.
 - However, we can laverage two properties of this problem to build an O(n) algorithm:

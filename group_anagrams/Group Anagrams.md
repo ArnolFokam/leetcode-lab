@@ -1,3 +1,4 @@
+#hashing 
 - Anagrams are words that are invariant to the arrangements of the characters they contain.
 - A simple solution would be to loop over every words and for every words, check if it is an anagram to the previous ecountered words (possibly one words from the already identified anagram). 
 - This solution would have a worst case of $O(nk(s))$  where $k(.)$ would return the complexity of the anagram identifier algorithm and $s$ is the expected length of words we will receive as input..
