@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md",
+                "file": "valid_palindrome/Valid Palindrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md",
+                "file": "valid_palindrome/Valid Palindrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md",
+                "file": "valid_palindrome/Valid Palindrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "longest_consecutive_sequence/Longest Consecutive Sequence.md"
+                "file": "valid_palindrome/Valid Palindrome.md"
               }
             }
           }
