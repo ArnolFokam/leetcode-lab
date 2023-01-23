@@ -15,7 +15,7 @@
 </div>
 
 - Therefore, the position of each grid can be represented as a pair of indices between 0, 1 and 3 and all blocks in a specific interval will happen to be present on a specific grid.
-- Therefore, we only need a way to map the block indices ($row_i$  $column_i$) to  grid indices.
+- Therefore, we only need a way to map the block indices ( $row_i$  $column_i$ ) to  grid indices.
 - A solution would be to perform a floor division by 3.
 ```c
 rows = {}

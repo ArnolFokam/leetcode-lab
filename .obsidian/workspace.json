@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "valid_palindrome/Valid Palindrome.md",
+                "file": "top_k_frequent_elements/Top K frequent elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "valid_palindrome/Valid Palindrome.md",
+                "file": "top_k_frequent_elements/Top K frequent elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "valid_palindrome/Valid Palindrome.md",
+                "file": "top_k_frequent_elements/Top K frequent elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "valid_palindrome/Valid Palindrome.md"
+                "file": "top_k_frequent_elements/Top K frequent elements.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
+    "valid_palindrome/Valid Palindrome.md",
     "longest_consecutive_sequence/Longest Consecutive Sequence.md",
     "valid_sudoku/Valid Sudoku.md",
     "valid_anagram/Valid Anagram.md",
@@ -156,7 +157,6 @@
     "top_k_frequent_elements/Top K frequent elements.md",
     "contains_duplicate/Contains Duplicate.md",
     "two_sum/Two Sum.md",
-    "Two Sum/Explanation.md",
-    "Climbing Stairs/Explanation.md"
+    "Two Sum/Explanation.md"
   ]
 }
