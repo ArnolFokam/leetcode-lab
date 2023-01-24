@@ -1,10 +1,8 @@
-from typing import List
-
 class Solution:
     """Module containing the solution
     """
     
-    def algorithm1(self, ) -> bool:
+    def algorithm1(self, ):
         """
 
         Args:
