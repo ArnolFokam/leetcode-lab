@@ -1,3 +1,5 @@
+#two-pointers #sorting 
+
 - In this problem, we are asked to find lists of 3 integers that sums up to 0
 - The setting is similar to [[Two Sum]]  and [[Two Sum II - Input Array Is Sorted]] problem but with two major differences
 	- We are working here with three integers
