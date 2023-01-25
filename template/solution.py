@@ -1,16 +1,6 @@
 class Solution:
     """Module containing the solution
     """
-    
-    def algorithm1(self, ):
-        """
-
-        Args:
-            
-        Returns:
-            
-        """
-        pass
         
     def solve(self, ):
         """
@@ -21,4 +11,4 @@ class Solution:
         Returns:
             
         """
-        return self.algorithm1()
+        pass
