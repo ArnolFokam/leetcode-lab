@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "container_with_most_water/Container With Most Water.md",
+                "file": "valid_parantheses/Valid Parantheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "container_with_most_water/Container With Most Water.md",
+                "file": "valid_parantheses/Valid Parantheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "container_with_most_water/Container With Most Water.md",
+                "file": "valid_parantheses/Valid Parantheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "container_with_most_water/Container With Most Water.md"
+                "file": "valid_parantheses/Valid Parantheses.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
+    "container_with_most_water/Container With Most Water.md",
     "3sum/3Sum.md",
     "two_sum_II_input_array_is_sorted/Two Sum II - Input Array Is Sorted.md",
     "Untitled.md",
@@ -156,7 +157,6 @@
     "longest_consecutive_sequence/Longest Consecutive Sequence.md",
     "valid_sudoku/Valid Sudoku.md",
     "valid_anagram/Valid Anagram.md",
-    "group_anagrams/Group Anagrams.md",
-    "product_of_array_except_self/Product of array except self.md"
+    "group_anagrams/Group Anagrams.md"
   ]
 }
