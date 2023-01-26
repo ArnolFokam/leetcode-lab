@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "valid_parantheses/Valid Parantheses.md",
+                "file": "min_stack/Min Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5449a2ea5e5849a7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "valid_parantheses/Valid Parantheses.md",
+                "file": "min_stack/Min Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "valid_parantheses/Valid Parantheses.md",
+                "file": "min_stack/Min Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "valid_parantheses/Valid Parantheses.md"
+                "file": "min_stack/Min Stack.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
+    "valid_parantheses/Valid Parantheses.md",
     "container_with_most_water/Container With Most Water.md",
     "3sum/3Sum.md",
     "two_sum_II_input_array_is_sorted/Two Sum II - Input Array Is Sorted.md",
@@ -156,7 +158,6 @@
     "valid_palindrome/Valid Palindrome.md",
     "longest_consecutive_sequence/Longest Consecutive Sequence.md",
     "valid_sudoku/Valid Sudoku.md",
-    "valid_anagram/Valid Anagram.md",
-    "group_anagrams/Group Anagrams.md"
+    "valid_anagram/Valid Anagram.md"
   ]
 }
