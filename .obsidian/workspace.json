@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
+                "file": "generate_parentheses/Generates Parantheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
+                "file": "generate_parentheses/Generates Parantheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
+                "file": "generate_parentheses/Generates Parantheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md"
+                "file": "generate_parentheses/Generates Parantheses.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
+    "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
     "min_stack/Min Stack.md",
     "valid_parantheses/Valid Parantheses.md",
     "container_with_most_water/Container With Most Water.md",
@@ -156,7 +157,6 @@
     "Untitled.md",
     "top_k_frequent_elements/Top K frequent elements.md",
     "valid_palindrome/Valid Palindrome.md",
-    "longest_consecutive_sequence/Longest Consecutive Sequence.md",
-    "valid_sudoku/Valid Sudoku.md"
+    "longest_consecutive_sequence/Longest Consecutive Sequence.md"
   ]
 }
