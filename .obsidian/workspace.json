@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generate_parentheses/Generates Parantheses.md",
+                "file": "daily_temperatures/Daily Temperatures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "generate_parentheses/Generates Parantheses.md",
+                "file": "daily_temperatures/Daily Temperatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "generate_parentheses/Generates Parantheses.md",
+                "file": "daily_temperatures/Daily Temperatures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generate_parentheses/Generates Parantheses.md"
+                "file": "daily_temperatures/Daily Temperatures.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
+    "generate_parentheses/Generates Parantheses.md",
     "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
     "min_stack/Min Stack.md",
     "valid_parantheses/Valid Parantheses.md",
@@ -156,7 +157,6 @@
     "two_sum_II_input_array_is_sorted/Two Sum II - Input Array Is Sorted.md",
     "Untitled.md",
     "top_k_frequent_elements/Top K frequent elements.md",
-    "valid_palindrome/Valid Palindrome.md",
-    "longest_consecutive_sequence/Longest Consecutive Sequence.md"
+    "valid_palindrome/Valid Palindrome.md"
   ]
 }
