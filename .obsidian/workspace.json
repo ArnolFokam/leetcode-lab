@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28d5abf70b29500e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "binary_search/Binary Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_temperatures/Daily Temperatures.md",
+                "file": "binary_search/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_temperatures/Daily Temperatures.md",
+                "file": "binary_search/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_temperatures/Daily Temperatures.md"
+                "file": "binary_search/Binary Search.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac6aa31f37d1c3c1",
+  "active": "28d5abf70b29500e",
   "lastOpenFiles": [
+    "daily_temperatures/Daily Temperatures.md",
+    "binary_search/Binary Search.md",
+    "Untitled.md",
     "generate_parentheses/Generates Parantheses.md",
     "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
     "min_stack/Min Stack.md",
     "valid_parantheses/Valid Parantheses.md",
     "container_with_most_water/Container With Most Water.md",
     "3sum/3Sum.md",
-    "two_sum_II_input_array_is_sorted/Two Sum II - Input Array Is Sorted.md",
-    "Untitled.md",
-    "top_k_frequent_elements/Top K frequent elements.md",
-    "valid_palindrome/Valid Palindrome.md"
+    "two_sum_II_input_array_is_sorted/Two Sum II - Input Array Is Sorted.md"
   ]
 }

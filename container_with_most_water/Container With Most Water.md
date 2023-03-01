@@ -1,6 +1,6 @@
 #two-pointers 
 
-- A brute-force solution would be to consitder all the possible combinations of bar, calculate the bar area and get the max area.
+- A brute-force solution would be to consider all the possible combinations of bars, calculate the bar area and get the max area.
 - However, this solution is $O(n^2)$ and a more effiecient solution exist that uses two pointers
 - We want to find the bars the gives the maximum area.
 - The area is calculated as:

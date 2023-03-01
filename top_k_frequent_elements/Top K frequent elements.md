@@ -1,6 +1,6 @@
 #array #hashing #sorting 
 - For this problem, all the solutions must have certain things in common:
-	- The ability to get the count tof every numbers
+	- The ability to get the count of every numbers
 	- The ability to access the counts in sorted order
 - An $O(n \log n)$ (worst case) would be to construct a hashmap of value to number of occurrences then create a sorted list from the keys of the hashmap (keys = numbers of the list) based on their number of occurences. This solution has the mentoined complexity because or the sorting algorithm as the hashmap creation would only be in $O(n)$.
 - An $O(n)$ solution would be to 
