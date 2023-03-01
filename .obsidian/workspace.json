@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "28d5abf70b29500e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "binary_search/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "binary_search/Binary Search.md",
+                "file": "best_time_to_buy_and_sell_stock/Best Time to Buy and Sell Stock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "binary_search/Binary Search.md",
+                "file": "best_time_to_buy_and_sell_stock/Best Time to Buy and Sell Stock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "binary_search/Binary Search.md"
+                "file": "best_time_to_buy_and_sell_stock/Best Time to Buy and Sell Stock.md"
               }
             }
           }
@@ -159,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d5abf70b29500e",
+  "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
     "daily_temperatures/Daily Temperatures.md",
+    "best_time_to_buy_and_sell_stock/Best Time to Buy and Sell Stock.md",
+    "best_time_to_buy_and_sell_stock/solution.py",
+    "best_time_to_buy_and_sell_stock",
+    "contains_duplicate/Contains Duplicate.md",
+    "container_with_most_water/Container With Most Water.md",
     "binary_search/Binary Search.md",
     "Untitled.md",
     "generate_parentheses/Generates Parantheses.md",
     "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
     "min_stack/Min Stack.md",
     "valid_parantheses/Valid Parantheses.md",
-    "container_with_most_water/Container With Most Water.md",
     "3sum/3Sum.md",
     "two_sum_II_input_array_is_sorted/Two Sum II - Input Array Is Sorted.md"
   ]
