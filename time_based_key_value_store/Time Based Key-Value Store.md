@@ -1,3 +1,4 @@
+#binary-search 
 - From this description, we see that we will potentially use another data structure for an effiecient retrieval of the timespan.
 - If the timespan was auto-generated, we could just use a stack with dictionary containing timespan and their index in the dictionary
 - But we are also given the timespan when ask to set a value
