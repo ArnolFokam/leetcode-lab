@@ -1,0 +1,13 @@
+#sliding-window 
+- This problem is fairly intuitive to solve
+- Once you have a mental model solution of the solution, it becomes easier to solve it.
+- Here is how we would go to solve the problem
+- We have a first pointer that determines the start of the substring
+- We have a second pointer that determins the current end of the substring
+- Now, how do we update these pointers
+- We keep a dictionary of seen characters such that
+	- While moving the second pointer to the end of the string
+	- If it points to a character we have already seen in the past and is in our current substring (we could have seen it in the past and already update our substring)
+	- We update the left pointer such that it contains the next character that has only been seen once. That is **left_pointer  + 1**
+- **Caution:** We need to make sure that we update the **seen** data structure accordingly.
+- Update the index of the seen characters such that we do not hit the previous condition for characters that were already encountered and skipped.

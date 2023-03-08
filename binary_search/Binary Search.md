@@ -5,3 +5,8 @@
 	- The **right** side as **new array** to search if target is greater than middle
 	- The **middle** value is the same as the target
 	- **No solution** if the new array has just on element which is not the target
+- What happens when the values are at the extremities. 
+- This is because if we downcast the output of the middle, our middle value will have the last index in the array.
+- We almost want the following behaviour
+	- When the two points are at either extremities. [0, 1] or [-2, -1] mid should be 0 or -1 provide we have already seen 0 and -2
+- A solution to this is to add +1 and -1 to mid to remove the region before or after the mid depending on where we think the target is.
