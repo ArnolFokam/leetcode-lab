@@ -1,0 +1,14 @@
+- Have a memory of seen node.
+- When encountering a node, append a unique property about it in a set (id(none))
+- Every time you encouter a new node, you should check if it not already present in the seen set.
+- This can be done in O(1) time complexity
+- **Time:** O(n) 
+- **Space:** O(n)
+
+- Another solution which is constant time.
+- When encountering a node, modify its value to something outside the desired range
+- Then, there is a duplicate if and only if we see this updated value somewhere
+- This is because since this value is outside the range of possible values our nodes can take, then it must have been through prior manipulation.
+- As a result, we are sure it was seen  early.
+ - **Time:** O(1) 
+- **Space:** O(n)
