@@ -1,7 +1,9 @@
-- This problem requires us to have a data structure that makes it possible to retrieve the least  used key in O(1)
-- We need to a mechanism to keep track of usage
-- Using a data type that keep track of one value would be sus as if this the key in the data type gets remove, we do not know what to remove next
-- We could use a list and arrange this list such that the least elements are always in order.
-- How?
-	- Always keep them in increase usage order
-	- If usage get +1 bigger and is greater that next elemet, swap values
+- We need a data structure that has order (linked list, array)
+- We need a data structure we can add element from both ends in O(1) (linked list doubled)
+	- To insert the newest used
+	- To keep track of the least use
+- We need a data structure whose element can be accessed and modified in O(1)
+	- To update the newest use value if it was already used
+		- Remove it where it is
+		- Append it to the right
+- We can use a dicionary that contains addresses to nodes in a linked list.
