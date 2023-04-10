@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md",
+                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md",
+                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md",
+                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md"
+                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md"
               }
             }
           }
@@ -148,24 +148,32 @@
   },
   "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
-    "lru_cache/LRU Cache.md",
-    "reorder_list/Reorder List.md",
-    "linked_list_cycle/Linked List Cycle.md",
+    "maximum_depth_of_binary_tree/Maximum Depth of Binary Tree.md",
+    "diameter_of_binary_tree/Diameter of Binary Tree.md",
+    "diameter_of_binary_tree/solution.py",
+    "diameter_of_binary_tree/explanation.md",
+    "diameter_of_binary_tree",
+    "Diameter of Binary Tree/solution.py",
+    "Diameter of Binary Tree/explanation.md",
+    "Diameter of Binary Tree",
     "template copy/solution.py",
     "template copy/explanation.md",
     "template copy",
+    "invert_binary_tree/Invert Binary Tree.md",
+    "maximum_depth_of_binary_tree/solution.py",
+    "maximum_depth_of_binary_tree/explanation.md",
+    "maximum_depth_of_binary_tree",
+    "copy_list_with_random_pointer/Copy List with Random Pointer.md",
+    "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md",
+    "lru_cache/LRU Cache.md",
+    "reorder_list/Reorder List.md",
+    "linked_list_cycle/Linked List Cycle.md",
     "merge_two_sorted_lists/template/solution.py",
     "merge_two_sorted_lists/template/explanation.md",
     "merge_two_sorted_lists/template",
-    "merge_two_sorted_lists copy/solution.py",
     "merge_two_sorted_lists copy/Merge Two Sorted Lists.md",
-    "merge_two_sorted_lists copy",
     "merge_two_sorted_lists/Merge Two Sorted Lists.md",
-    "linked_list_cycle/solution.py",
-    "linked_list_cycle",
-    " linked_list_cycle/solution.py",
     " linked_list_cycle/explanation.md",
-    " linked_list_cycle",
     "reverse_linked_list/Reverse Linked List.md",
     "time_based_key_value_store/Time Based Key-Value Store.md",
     "longest_substring_without_repeating_characters/Longest Substring Without Repeating Characters.md",
@@ -175,11 +183,6 @@
     "contains_duplicate/Contains Duplicate.md",
     "container_with_most_water/Container With Most Water.md",
     "Untitled.md",
-    "generate_parentheses/Generates Parantheses.md",
-    "evaluate_reverse_polish_notation/Evaluate Reverse Polish Notation.md",
-    "min_stack/Min Stack.md",
-    "valid_parantheses/Valid Parantheses.md",
-    "3sum/3Sum.md",
-    "two_sum_II_input_array_is_sorted/Two Sum II - Input Array Is Sorted.md"
+    "generate_parentheses/Generates Parantheses.md"
   ]
 }
