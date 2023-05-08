@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md",
+                "file": "course_schedule/Course Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3037be25216a5d0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md",
+                "file": "course_schedule/Course Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md",
+                "file": "course_schedule/Course Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diameter_of_binary_tree/Diameter of Binary Tree.md"
+                "file": "course_schedule/Course Schedule.md"
               }
             }
           }
@@ -148,29 +156,34 @@
   },
   "active": "ac6aa31f37d1c3c1",
   "lastOpenFiles": [
-    "maximum_depth_of_binary_tree/Maximum Depth of Binary Tree.md",
-    "diameter_of_binary_tree/Diameter of Binary Tree.md",
-    "diameter_of_binary_tree/solution.py",
-    "diameter_of_binary_tree/explanation.md",
-    "diameter_of_binary_tree",
-    "Diameter of Binary Tree/solution.py",
-    "Diameter of Binary Tree/explanation.md",
-    "Diameter of Binary Tree",
+    "subtree_of_another_tree/Subtrr of Another Tree.md",
+    "same_tree/Same Tree.md",
+    "subtree_of_another_tree/solution.py",
+    "subtree_of_another_tree",
     "template copy/solution.py",
     "template copy/explanation.md",
     "template copy",
+    "find_the_duplicate_number/Find the Duplicate Number.md",
+    "add_two_numbers/Add Two Numbers.md",
+    "find_the_duplicate_number/solution.py",
+    "find_the_duplicate_number",
+    "add_two_numbers/template/solution.py",
+    "add_two_numbers/template/explanation.md",
+    "add_two_numbers/template",
+    "add_two_numbers/solution copy.py",
+    "diameter_of_binary_tree/Diameter of Binary Tree.md",
+    "add_two_numbers/solution.py",
+    "maximum_depth_of_binary_tree/Maximum Depth of Binary Tree.md",
+    "diameter_of_binary_tree/explanation.md",
+    "Diameter of Binary Tree/explanation.md",
     "invert_binary_tree/Invert Binary Tree.md",
-    "maximum_depth_of_binary_tree/solution.py",
     "maximum_depth_of_binary_tree/explanation.md",
-    "maximum_depth_of_binary_tree",
     "copy_list_with_random_pointer/Copy List with Random Pointer.md",
     "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md",
     "lru_cache/LRU Cache.md",
     "reorder_list/Reorder List.md",
     "linked_list_cycle/Linked List Cycle.md",
-    "merge_two_sorted_lists/template/solution.py",
     "merge_two_sorted_lists/template/explanation.md",
-    "merge_two_sorted_lists/template",
     "merge_two_sorted_lists copy/Merge Two Sorted Lists.md",
     "merge_two_sorted_lists/Merge Two Sorted Lists.md",
     " linked_list_cycle/explanation.md",
@@ -178,11 +191,6 @@
     "time_based_key_value_store/Time Based Key-Value Store.md",
     "longest_substring_without_repeating_characters/Longest Substring Without Repeating Characters.md",
     "binary_search/Binary Search.md",
-    "best_time_to_buy_and_sell_stock/Best Time to Buy and Sell Stock.md",
-    "daily_temperatures/Daily Temperatures.md",
-    "contains_duplicate/Contains Duplicate.md",
-    "container_with_most_water/Container With Most Water.md",
-    "Untitled.md",
-    "generate_parentheses/Generates Parantheses.md"
+    "best_time_to_buy_and_sell_stock/Best Time to Buy and Sell Stock.md"
   ]
 }
