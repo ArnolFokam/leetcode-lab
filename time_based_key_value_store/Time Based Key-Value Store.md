@@ -7,7 +7,7 @@
 - The time spans are strictly increasing so the new element will always be ahead of all the previous elements
 - This means that if we simply store them in an array, we will never have to update the middle of the array again
 	- There is no remove operation
-- What is the process of getting a value using a timespan
+- What is the process of geting a value using a timespan
 	- I have a key
 	- I index the key
 	- I have a timespan

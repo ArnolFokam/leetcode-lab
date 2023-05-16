@@ -1,0 +1,5 @@
+#sliding-window
+- for each subarray, we have a valid onw if the number of available replacement is more or equal to the difference between the length of the subarray the frequence of the element with max occurence
+- If we use a brute force approach we would have a time complexity of $O(n**2)$ to get all possible subarray
+- However, we can make it faster using a sliding window approach such that the time complexity of the solution is now $O(26n) == O(n)$ (getting the letter with max occurence) and the space complexity is $(O(26) == O(1))$ because we need to keep a dictionary of letter count for the current sub-array we consider.
+- Tip: since we only about the LONGEST substring, we can remove the search for the max occurence by just keeping track of the highest one so far because, this will help us consider subarray bigger than what we have already seen so far.
