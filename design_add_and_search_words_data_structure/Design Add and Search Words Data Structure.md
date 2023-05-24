@@ -1,0 +1,4 @@
+- Same thing as implementing a trie
+- But we need to account for scenarios where we encouter a dot
+- Perform breadth-first search in this case
+- So, the search algorithm should be recursive

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "car_fleet/Car Fleet.md",
+                "file": "subsets_2/subsets_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "back",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "car_fleet/Car Fleet.md",
+                "file": "subsets_2/subsets_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "car_fleet/Car Fleet.md",
+                "file": "subsets_2/subsets_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "car_fleet/Car Fleet.md"
+                "file": "subsets_2/subsets_2.md"
               }
             }
           }
@@ -169,8 +169,18 @@
   },
   "active": "2f276dee25492eb9",
   "lastOpenFiles": [
-    "find_minimum_in_rotated_sorted_array/Find Minimum in Rotated Sorted Array.md",
+    "subsets/Subsets.md",
+    "combination_sum/Combination Sum.md",
+    "longest_repeating_character_replacement/ Longest Repeating Character Replacement.md",
+    "design_add_and_search_words_data_structure/Design Add and Search Words Data Structure.md",
+    "design_add_and_search_words_data_structure/solution.py",
+    "design_add_and_search_words_data_structure/explanation.md",
+    "design_add_and_search_words_data_structure",
+    "template copy/solution.py",
+    "template copy/explanation.md",
+    "template copy",
     "car_fleet/Car Fleet.md",
+    "find_minimum_in_rotated_sorted_array/Find Minimum in Rotated Sorted Array.md",
     "car_fleet/solution.py",
     "car_fleet/Count Good Nodes in Binary Tree.md",
     "car_fleet",
@@ -184,13 +194,8 @@
     "same_tree/Same Tree.md",
     "subtree_of_another_tree/solution.py",
     "subtree_of_another_tree",
-    "template copy/solution.py",
-    "template copy/explanation.md",
-    "template copy",
     "find_the_duplicate_number/Find the Duplicate Number.md",
     "add_two_numbers/Add Two Numbers.md",
-    "find_the_duplicate_number/solution.py",
-    "find_the_duplicate_number",
     "add_two_numbers/template/explanation.md",
     "diameter_of_binary_tree/Diameter of Binary Tree.md",
     "maximum_depth_of_binary_tree/Maximum Depth of Binary Tree.md",
@@ -199,11 +204,6 @@
     "invert_binary_tree/Invert Binary Tree.md",
     "maximum_depth_of_binary_tree/explanation.md",
     "copy_list_with_random_pointer/Copy List with Random Pointer.md",
-    "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md",
-    "lru_cache/LRU Cache.md",
-    "reorder_list/Reorder List.md",
-    "linked_list_cycle/Linked List Cycle.md",
-    "merge_two_sorted_lists/template/explanation.md",
-    "merge_two_sorted_lists copy/Merge Two Sorted Lists.md"
+    "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md"
   ]
 }
