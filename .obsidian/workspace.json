@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subsets_2/subsets_2.md",
+                "file": "house_robber_II/House Robber II.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7983cd213b13505a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subsets_2/subsets_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "subsets_2/subsets_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "subsets_2/subsets_2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,43 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f276dee25492eb9",
+  "active": "7983cd213b13505a",
   "lastOpenFiles": [
+    "maximum_product_subarray/Maximum Product Subarray.md",
+    "maximum_product_subarray/solution.py",
+    "maximum_product_subarray/explanation.md",
+    "maximum_product_subarray",
+    "template copy/solution.py",
+    "template copy/explanation.md",
+    "template copy",
+    "house_robber_II/House Robber II.md",
+    "koko_eating_bananas/Koko Eating Bananas.md",
+    "coin_change/Coin Change.md",
+    "decode_ways/Decode Ways.md",
+    "coin_change/solution.py",
+    "coin_change/explanation.md",
+    "coin_change",
+    "palindromic_substrings/Palindromic Substrings.md",
+    "decode_ways/solution.py",
+    "decode_ways/Daily Temperatures.md",
+    "decode_ways",
+    "daily_temperatures copy/solution.py",
+    "daily_temperatures copy/Daily Temperatures.md",
+    "daily_temperatures copy",
+    "longest_palindromic_substring/Longest Palindromic Substring.md",
+    "palindromic_substrings/Longest Palindromic Substring.md",
+    "longest_palindromic_substring copy/Longest Palindromic Substring.md",
+    "combination_sum_II/Combination Sum.md",
     "subsets/Subsets.md",
     "combination_sum/Combination Sum.md",
     "longest_repeating_character_replacement/ Longest Repeating Character Replacement.md",
     "design_add_and_search_words_data_structure/Design Add and Search Words Data Structure.md",
-    "design_add_and_search_words_data_structure/solution.py",
     "design_add_and_search_words_data_structure/explanation.md",
-    "design_add_and_search_words_data_structure",
-    "template copy/solution.py",
-    "template copy/explanation.md",
-    "template copy",
     "car_fleet/Car Fleet.md",
     "find_minimum_in_rotated_sorted_array/Find Minimum in Rotated Sorted Array.md",
-    "car_fleet/solution.py",
     "car_fleet/Count Good Nodes in Binary Tree.md",
-    "car_fleet",
-    "balanced_binary_tree/solution.py",
     "balanced_binary_tree/Balanced Binary Tree.md",
-    "balanced_binary_tree",
     "count_good_nodes_in_binary_tree/Count Good Nodes in Binary Tree.md",
-    "permutation_in_string/Permutation in String.md",
-    "course_schedule/Course Schedule.md",
-    "subtree_of_another_tree/Subtrr of Another Tree.md",
-    "same_tree/Same Tree.md",
-    "subtree_of_another_tree/solution.py",
-    "subtree_of_another_tree",
-    "find_the_duplicate_number/Find the Duplicate Number.md",
-    "add_two_numbers/Add Two Numbers.md",
-    "add_two_numbers/template/explanation.md",
-    "diameter_of_binary_tree/Diameter of Binary Tree.md",
-    "maximum_depth_of_binary_tree/Maximum Depth of Binary Tree.md",
-    "diameter_of_binary_tree/explanation.md",
-    "Diameter of Binary Tree/explanation.md",
-    "invert_binary_tree/Invert Binary Tree.md",
-    "maximum_depth_of_binary_tree/explanation.md",
-    "copy_list_with_random_pointer/Copy List with Random Pointer.md",
-    "remove_nth_node_from_end_of_list/Remove Nth Node From End of List.md"
+    "permutation_in_string/Permutation in String.md"
   ]
 }

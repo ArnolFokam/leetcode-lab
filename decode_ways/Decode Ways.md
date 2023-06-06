@@ -1,0 +1,11 @@
+#1D-DP  
+- base case: last and before last stairs each have min cost as their current value
+- sub-problem: ways[i] = 
+	- **+** ways[i + 1] (case where we do not combine with left)
+	- **+**  ways[i + 2] (case where we combine with left)  if:
+		- i + 1 is less than length of string (i + 2 has a line in the dp column)
+		- s[i] and s[i + 2] have combinations that can be mixed eg. 11, 16, 26
+- iteration: i will for from the last to the first element
+- base cases: ways[after the end of the string] = 1, ways[i] = 0 if s[i] = "0"
+- Time complexity is O(n) because we iterate characters
+- Space complexity is O(n) if we keep the history. O(1) if we just keep track of the previous values.
