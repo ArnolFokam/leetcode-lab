@@ -35,8 +35,12 @@
             "id": "7983cd213b13505a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "task_scheduler/Task Scheduler.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "back",
+                "query": "tag:#1D-DP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "task_scheduler/Task Scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "task_scheduler/Task Scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "task_scheduler/Task Scheduler.md"
+              }
             }
           }
         ]
@@ -173,41 +181,41 @@
   },
   "active": "7983cd213b13505a",
   "lastOpenFiles": [
-    "maximum_product_subarray/Maximum Product Subarray.md",
-    "maximum_product_subarray/solution.py",
-    "maximum_product_subarray/explanation.md",
-    "maximum_product_subarray",
-    "template copy/solution.py",
-    "template copy/explanation.md",
-    "template copy",
+    "word_search copy/solution.py",
+    "word_search copy/Word Search.md",
+    "word_search copy",
+    "kth_largest_element_in_an_array/Kth Largest Element In An Array.md",
+    "kth_largest_element_in_an_array/solution.py",
+    "kth_largest_element_in_an_array/Task Scheduler.md",
+    "kth_largest_element_in_an_array",
+    "task_scheduler copy/solution.py",
+    "task_scheduler copy/Task Scheduler.md",
+    "task_scheduler copy",
+    "max_area_of_island/Max Area of Island.md",
+    "task_scheduler/Task Scheduler.md",
+    "task_scheduler/solution.py",
+    "task_scheduler/Max Area of Island.md",
+    "task_scheduler",
+    "max_area_of_island copy/solution.py",
+    "max_area_of_island copy/Max Area of Island.md",
+    "max_area_of_island copy",
     "house_robber_II/House Robber II.md",
-    "koko_eating_bananas/Koko Eating Bananas.md",
-    "coin_change/Coin Change.md",
-    "decode_ways/Decode Ways.md",
-    "coin_change/solution.py",
-    "coin_change/explanation.md",
-    "coin_change",
-    "palindromic_substrings/Palindromic Substrings.md",
-    "decode_ways/solution.py",
-    "decode_ways/Daily Temperatures.md",
-    "decode_ways",
-    "daily_temperatures copy/solution.py",
-    "daily_temperatures copy/Daily Temperatures.md",
-    "daily_temperatures copy",
-    "longest_palindromic_substring/Longest Palindromic Substring.md",
-    "palindromic_substrings/Longest Palindromic Substring.md",
-    "longest_palindromic_substring copy/Longest Palindromic Substring.md",
-    "combination_sum_II/Combination Sum.md",
-    "subsets/Subsets.md",
-    "combination_sum/Combination Sum.md",
-    "longest_repeating_character_replacement/ Longest Repeating Character Replacement.md",
-    "design_add_and_search_words_data_structure/Design Add and Search Words Data Structure.md",
-    "design_add_and_search_words_data_structure/explanation.md",
-    "car_fleet/Car Fleet.md",
-    "find_minimum_in_rotated_sorted_array/Find Minimum in Rotated Sorted Array.md",
-    "car_fleet/Count Good Nodes in Binary Tree.md",
-    "balanced_binary_tree/Balanced Binary Tree.md",
-    "count_good_nodes_in_binary_tree/Count Good Nodes in Binary Tree.md",
-    "permutation_in_string/Permutation in String.md"
+    "pacific_atlantic_ocean/Pacific Actlantic Ocean.md",
+    "max_area_of_island/solution.py",
+    "max_area_of_island/Word Break.md",
+    "word_break copy/Word Break.md",
+    "clone_graph/Clone Graph.md",
+    "clone_graph/Clone Grpah.md",
+    "clone_graph/Word Break.md",
+    "last_stone_weight/Last Stone Weight.md",
+    "kth_largest_element_in_a_stream/Kth Largest Element In a Stream.md",
+    "word_break/Word Break.md",
+    "last_stone_weight/explanation.md",
+    "template copy/explanation.md",
+    "number_of_islands/Number of Islands.md",
+    "word_break/explanation.md",
+    "maximum_product_subarray/Maximum Product Subarray.md",
+    "number_of_islands/explanation.md",
+    "maximum_depth_of_binary_tree/Maximum Depth of Binary Tree.md"
   ]
 }

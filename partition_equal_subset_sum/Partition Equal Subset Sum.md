@@ -1,0 +1,11 @@
+#1D-DP 
+- The problem can be reduce to a "check if there is a subset that sum to a target number i"
+- The reason is because if there exist two set such that their sums are equal, then the sum of each set is the sum of total numbers in the input array divided by two
+- Therefore we know that this is only true if the sum of elements in the input array is divisible by two (useful preliminary check)
+- Then we can use dynamic programming to solve the problem by:
+	- Creating a set of number containing every possible sum of subsets
+	- This could be done which BFS or DFS but 
+	- A simple DP solution will be have the following recurent
+	- T[i] = T[i + 1] union {nums[i] + p for all p in T[i + 1]}  the recurrence equation says the solution for x is every possible sum when the element at i is include or not
+	- For the base case T[i + 1] is 0 since the only possible sum when we start is 0
+	- The results is True if T[last] contains the target and false otherwise
