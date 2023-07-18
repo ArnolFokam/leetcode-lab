@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task_scheduler/Task Scheduler.md",
+                "file": "non_overlapping_intervals/Non-overlapping Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1D-DP",
+                "query": "non over",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task_scheduler/Task Scheduler.md",
+                "file": "non_overlapping_intervals/Non-overlapping Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task_scheduler/Task Scheduler.md",
+                "file": "non_overlapping_intervals/Non-overlapping Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task_scheduler/Task Scheduler.md"
+                "file": "non_overlapping_intervals/Non-overlapping Intervals.md"
               }
             }
           }
@@ -181,6 +182,17 @@
   },
   "active": "7983cd213b13505a",
   "lastOpenFiles": [
+    "course_schedule_II/Course Schedule II.md",
+    "gas_station/Gas Station.md",
+    "jump_game/Jump Game.md",
+    "gas_station/solution.py",
+    "gas_station",
+    "surrounded_regions/Surrounded Regions.md",
+    "jump_game/solution.py",
+    "jump_game/Jump Game",
+    "jump_game",
+    "rotting_oranges/Rotting Oranges.md",
+    "task_scheduler/Task Scheduler.md",
     "word_search copy/solution.py",
     "word_search copy/Word Search.md",
     "word_search copy",
@@ -190,18 +202,11 @@
     "kth_largest_element_in_an_array",
     "task_scheduler copy/solution.py",
     "task_scheduler copy/Task Scheduler.md",
-    "task_scheduler copy",
     "max_area_of_island/Max Area of Island.md",
-    "task_scheduler/Task Scheduler.md",
-    "task_scheduler/solution.py",
     "task_scheduler/Max Area of Island.md",
-    "task_scheduler",
-    "max_area_of_island copy/solution.py",
     "max_area_of_island copy/Max Area of Island.md",
-    "max_area_of_island copy",
     "house_robber_II/House Robber II.md",
     "pacific_atlantic_ocean/Pacific Actlantic Ocean.md",
-    "max_area_of_island/solution.py",
     "max_area_of_island/Word Break.md",
     "word_break copy/Word Break.md",
     "clone_graph/Clone Graph.md",
@@ -212,10 +217,6 @@
     "word_break/Word Break.md",
     "last_stone_weight/explanation.md",
     "template copy/explanation.md",
-    "number_of_islands/Number of Islands.md",
-    "word_break/explanation.md",
-    "maximum_product_subarray/Maximum Product Subarray.md",
-    "number_of_islands/explanation.md",
-    "maximum_depth_of_binary_tree/Maximum Depth of Binary Tree.md"
+    "number_of_islands/Number of Islands.md"
   ]
 }
