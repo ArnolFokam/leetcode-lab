@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "non_overlapping_intervals/Non-overlapping Intervals.md",
+                "file": "min_cost_to_connect_all_points/Min Cost to Connect All Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non over",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "non_overlapping_intervals/Non-overlapping Intervals.md",
+                "file": "min_cost_to_connect_all_points/Min Cost to Connect All Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "non_overlapping_intervals/Non-overlapping Intervals.md",
+                "file": "min_cost_to_connect_all_points/Min Cost to Connect All Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "non_overlapping_intervals/Non-overlapping Intervals.md"
+                "file": "min_cost_to_connect_all_points/Min Cost to Connect All Points.md"
               }
             }
           }
@@ -182,6 +181,8 @@
   },
   "active": "7983cd213b13505a",
   "lastOpenFiles": [
+    "merge_intervals/Merge Interval.md",
+    "non_overlapping_intervals/Non-overlapping Intervals.md",
     "course_schedule_II/Course Schedule II.md",
     "gas_station/Gas Station.md",
     "jump_game/Jump Game.md",
@@ -215,8 +216,6 @@
     "last_stone_weight/Last Stone Weight.md",
     "kth_largest_element_in_a_stream/Kth Largest Element In a Stream.md",
     "word_break/Word Break.md",
-    "last_stone_weight/explanation.md",
-    "template copy/explanation.md",
-    "number_of_islands/Number of Islands.md"
+    "last_stone_weight/explanation.md"
   ]
 }
