@@ -1,12 +1,3 @@
-# Definition for singly-linked list.
-from typing import List, Optional
-
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-        
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         
@@ -22,13 +13,16 @@ class Solution:
                     l1 = l1.next
                 else:
                     tail.next = l2
-                    l2 = l1.next
+                    l2 = l2.next
+                tail = tail.next
                     
             if l1:
                 tail.next = l1
                     
             if l2: 
                 tail.next = l2
+
+            return dummy.next
         
         while len(lists) > 1:
             mergedLists  = []
